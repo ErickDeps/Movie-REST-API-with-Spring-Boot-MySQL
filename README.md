@@ -30,6 +30,7 @@ Este proyecto es una **API RESTful** desarrollada con **Spring Boot** que permit
 
 2. Crea el archivo application.properties en src/main/resources/:
 ## src/main/resources/application.properties
+
 Usa este ejemplo:
 spring.application.name=movies
 spring.datasource.url=jdbc:mysql://localhost:3306/movies
