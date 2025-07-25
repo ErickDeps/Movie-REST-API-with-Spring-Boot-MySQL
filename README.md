@@ -44,13 +44,17 @@ CREATE DATABASE movies;
 4. Ejecuta la aplicación desde tu IDE
 
 5. Urls o Endpoints
-| Método | Endpoint                       | Descripción                   |
-| ------ | -------------------------------| ----------------------------- |
+
 | GET    | `/api/movies`                  | Listar todas las películas    |
+
 | GET    | `/api/movies/{id}`             | Ver detalles de una película  |
+
 | POST   | `/api/movies`                  | Crear una nueva película      |
+
 | PUT    | `/api/movies/{id}`             | Actualizar una película       |
+
 | DELETE | `/api/movies/{id}`             | Eliminar una película         |
+
 | PATCH  | `/api/movies/vote/{id}/rating` | Agregar rating a una película |
 
 ## 🛡️ Seguridad y buenas prácticas
