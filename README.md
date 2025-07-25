@@ -21,20 +21,6 @@ Este proyecto es una **API RESTful** desarrollada con **Spring Boot** que permit
 - Lombok
 - Postman / Thunder Client (para pruebas de endpoints)
 
-## 📦 Estructura del proyecto
-
-src/
-├── main/
-│ ├── java/
-│ │ └── com/erickdeps/movies/
-│ │ ├── com/erickdeps/movies/controllers/
-│ │ ├── com/erickdeps/movies/models/
-│ │ ├── com/erickdeps/movies/repositories/
-│ └── resources/
-│ ├── application.properties
-└── test/
-
-
 ## 🔧 Instalación y puesta en marcha
 
 1. Clona el repositorio:
