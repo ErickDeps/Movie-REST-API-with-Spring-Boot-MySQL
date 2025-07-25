@@ -57,9 +57,5 @@ CREATE DATABASE movies;
 
 | PATCH  | `/api/movies/vote/{id}/rating` | Agregar rating a una película |
 
-## 🛡️ Seguridad y buenas prácticas
-- Se ha añadido application.properties al .gitignore para proteger credenciales sensibles.
-- Se recomienda usar variables de entorno o un archivo .env al momento del despliegue.
-
 
 
